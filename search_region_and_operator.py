@@ -26,4 +26,3 @@ class search_region_and_operator():
             pass
         return operator, region
 search_numb = search_region_and_operator()
-#print(search_numb.search_region_and_operator(79119279008))
